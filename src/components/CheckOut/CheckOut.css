@@ -1,0 +1,27 @@
+.check-header {
+  background-color: #dddddd;
+  border-radius: 5px;
+  width: 90%;
+  margin: 3px auto;
+}
+.check-value {
+  background-color: #dac0c0;
+  border-radius: 5px;
+  width: 90%;
+  margin: 3px auto;
+}
+.check-total {
+  background-color: #d6f8b6;
+  border-radius: 5px;
+  width: 90%;
+  margin: 3px auto;
+}
+
+.check-container {
+  background-color: gray;
+  box-shadow: 10px 10px 20px rgb(180, 223, 240);
+  border-radius: 10px;
+  width: 70%;
+  margin: 40px auto;
+  padding: 20px;
+}

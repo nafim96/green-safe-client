@@ -1,0 +1,14 @@
+.login-form {
+  background-color: gray;
+  width: 30%;
+  margin: 20px auto;
+  padding: 60px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 40px goldenrod;
+}
+
+@media (max-width: 576px) {
+  .login-form {
+    width: 80%;
+  }
+}
